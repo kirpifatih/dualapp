@@ -1,0 +1,6 @@
+module Pods_dualapp_dualappTests {
+  umbrella header "Pods-dualapp-dualappTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+module Pods_dualapp {
+  umbrella header "Pods-dualapp-umbrella.h"
+
+  export *
+  module * { export * }
+}

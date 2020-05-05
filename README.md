@@ -1,2 +1,2 @@
 # dualapp
-react native  first page slayt screen
+react native app first slayt
